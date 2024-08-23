@@ -1,19 +1,6 @@
 ## create the project or start it
 * run `docker-compose up`
 
-first step
-
-```javascript
-docker pull apache/kafka-native:3.8.0
-
-```
-second 
-
-```javascript
-$ docker run -p 9092:9092 apache/kafka-native:3.8.0
-
-
-```
 
 ```javascript
 kafka-topics.sh \
