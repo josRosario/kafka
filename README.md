@@ -13,3 +13,12 @@ kafka-topics.sh \
 
 
 ```
+
+listar los topis
+
+```javascript
+kafka-topics.sh --list --bootstrap-server localhost:9092
+
+
+
+```
